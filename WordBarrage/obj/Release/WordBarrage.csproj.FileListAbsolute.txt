@@ -1,0 +1,10 @@
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\bin\Release\WordBarrage.exe.config
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\bin\Release\WordBarrage.exe
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\bin\Release\WordBarrage.pdb
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\obj\Release\WordBarrage.Form1.resources
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\obj\Release\WordBarrage.Properties.Resources.resources
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\obj\Release\WordBarrage.csproj.GenerateResource.cache
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\obj\Release\WordBarrage.csproj.CoreCompileInputs.cache
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\obj\Release\WordBarrage.exe
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\obj\Release\WordBarrage.pdb
+D:\Workspaces\WordBarrage\WordBarrage\WordBarrage\obj\Release\WordBarrage.csprojAssemblyReference.cache
